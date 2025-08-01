@@ -107,7 +107,10 @@ The aim of this project is to estimate employee salaries (in USD and INR) from p
 ```
 git clone https://github.com/Akhil-Gaddam/Employee_Salary_Prediction_Using_Machine_Learning.git
 ```
+```cd Employee_Salary_Prediction_Using_Machine_Learning```
+
 **Install Dependencies**
+
 - pip install -r requirements.txt
 
 **Steps to Run the Project:**
@@ -118,7 +121,7 @@ git clone https://github.com/Akhil-Gaddam/Employee_Salary_Prediction_Using_Machi
 
 - Ensure model.pkl and feature_columns.pkl are saved.
 
-- Open app.py in any code editor to check the Streamlit app code.
+- Open app.py in any code editor and run to check the Streamlit app code.
 
 - Run the web app using the command:
 
