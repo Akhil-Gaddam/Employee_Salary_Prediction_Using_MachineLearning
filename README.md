@@ -1,4 +1,4 @@
-# Employee Salary Prediction Using MachineLearning
+# Employee Salary Prediction Using Machine Learning
 
 ## Project Overview
 
@@ -105,7 +105,7 @@ The aim of this project is to estimate employee salaries (in USD and INR) from p
 **Clone this repository:**
 
 ```
-git clone https://github.com/Akhil-Gaddam/Employee_Salary_Prediction.git
+git clone [https://github.com/Akhil-Gaddam/Employee_Salary_Prediction.git](https://github.com/Akhil-Gaddam/Employee_Salary_Prediction_Using_Machine_Learning.git)
 ```
 **Install Dependencies**
 - pip install -r requirements.txt
