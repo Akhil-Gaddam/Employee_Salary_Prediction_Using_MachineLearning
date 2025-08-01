@@ -35,7 +35,7 @@ The aim of this project is to estimate employee salaries (in USD and INR) from p
 ## Workflow
 
 1. **Data Loading** – Import `Salaries.csv` dataset using pandas.
-2. **Data Cleaning** – Remove irrelevant columns like `salary`, `salary_currency`.
+2. **Data Cleaning** – Remove irrelevant columns like salary, salary_currency.
 3. **EDA** – Visualizations like boxplots and distributions using `seaborn` and `matplotlib`..
 4. **Feature Engineering** – Apply one-hot encoding to categorical columns.
 5. **Train-Test Split**  
