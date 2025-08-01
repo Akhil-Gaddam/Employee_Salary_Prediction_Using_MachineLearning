@@ -52,10 +52,6 @@ The aim of this project is to estimate employee salaries (in USD and INR) from p
 
 ## Screenshots
 
-
-
-
-
 ### Boxplot Visualization
 
 <img width="1024" height="508" alt="Screenshot_visualization" src="https://github.com/user-attachments/assets/1617ddd5-457a-4ed8-aa23-509d5de37322" />
@@ -107,6 +103,8 @@ The aim of this project is to estimate employee salaries (in USD and INR) from p
 ```
 git clone https://github.com/Akhil-Gaddam/Employee_Salary_Prediction_Using_Machine_Learning.git
 ```
+
+**Navigate into the Project Directory**
 ```
 cd Employee_Salary_Prediction_Using_Machine_Learning
 ```
@@ -119,15 +117,15 @@ cd Employee_Salary_Prediction_Using_Machine_Learning
 
 **Steps to Run the Project:**
 
-- Open Salaries.csv in Jupyter Notebook.
+- Open `Salaries.csv` in Jupyter Notebook.
 
-- Run Employee_Salary_Prediction.ipynb to preprocess and train the model.
+- Run `Employee_Salary_Prediction.ipynb` to preprocess and train the model.
 
-- Ensure model.pkl and feature_columns.pkl are saved.
+- Ensure `model.pkl` and `feature_columns.pkl` are saved.
 
-- Open app.py in any code editor and run to check the Streamlit app code.
+- Open `app.py` in any code editor and run to check the Streamlit app code.
 
-- Run the web app using the command:
+ **Run the web app using the command:**
 
   ```
   streamlit run app.py
