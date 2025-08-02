@@ -117,7 +117,7 @@ cd Employee_Salary_Prediction_Using_Machine_Learning
 
 **Steps to Run the Project:**
 
-***Train the model (optional if model.pkl already exists):***
+***Note: Training the model is optional if model.pkl and feature_columns.pkl are already present.***
 
 - Open `Salaries.csv` in Jupyter Notebook.
 
@@ -127,7 +127,7 @@ cd Employee_Salary_Prediction_Using_Machine_Learning
 
 - Open `app.py` in any code editor and run to check the Streamlit app code.
 
-- Then navigate into the project directory
+- Then navigate into the project directory Where the files are saved using `cd`.
 
  **Run the web app using the command:**
 
